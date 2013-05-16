@@ -1,0 +1,20 @@
+html {
+    background: url("../images/bg.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+div.canvas {
+    background: url("../images/logo.png") no-repeat scroll 71% 0 / 18% auto, url("../images/kid.png") no-repeat scroll 83% 100% / 33% auto, url("../images/snake.png") no-repeat scroll 17% 100% / 37% auto, url("../images/oldman.png") no-repeat scroll 38% 0 / 27% auto transparent;
+    left: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%
+}
+
